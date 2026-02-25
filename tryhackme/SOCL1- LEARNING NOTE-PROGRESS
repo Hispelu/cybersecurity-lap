@@ -1,0 +1,15 @@
+# SOC Role & Blue Team Operations – Learning Notes
+
+**Platform:** TryHackMe  
+**Track:** SOC / Blue Team  
+**Level:** Beginner  
+**Focus Area:** SOC Structure & Incident Response Workflow
+## Personal Reflection
+
+This module significantly improved my understanding of how Security Operations Centers (SOC) function within an organization and how different security roles collaborate to protect business assets.
+
+I gained clarity on the escalation workflow from SOC Level 1 analysts to Level 2 analysts and Incident Response teams, and I now understand how responsibilities shift based on incident severity. Learning the distinction between SOC, MSSP, and specialized teams such as CIRT/CSIRT helped me appreciate the operational and strategic layers of cybersecurity defense.
+
+This lesson also reinforced the importance of thinking like an attacker, validating alerts before escalation, and continuously improving detection rules based on previous incidents. I now better understand how technical roles (SOC analysts, engineers) and governance roles (CISO, GRC specialists) align to create a structured and resilient security framework.
+
+Overall, this module strengthened my interest in the SOC career path and highlighted the foundational skills required to grow into more advanced defensive security roles.
