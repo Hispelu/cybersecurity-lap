@@ -1,7 +1,7 @@
 # Network Fundamentals Lab
 
 **Platform:** TryHackMe  
-**Level:** Beginner  
+**Level:** Enry-level  
 
 ## Objective
 To understand basic networking concepts including IP addressing, ports, protocols, and secure network communication.
