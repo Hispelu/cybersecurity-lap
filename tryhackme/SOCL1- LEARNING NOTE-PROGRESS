@@ -13,3 +13,31 @@ I gained clarity on the escalation workflow from SOC Level 1 analysts to Level 2
 This lesson also reinforced the importance of thinking like an attacker, validating alerts before escalation, and continuously improving detection rules based on previous incidents. I now better understand how technical roles (SOC analysts, engineers) and governance roles (CISO, GRC specialists) align to create a structured and resilient security framework.
 
 Overall, this module strengthened my interest in the SOC career path and highlighted the foundational skills required to grow into more advanced defensive security roles.
+
+
+## Human Factor in Cybersecurity
+
+One important concept I learned is that **humans are often considered the weakest link in cybersecurity**. Even when an organization has strong technical defenses, attackers frequently target employees because human mistakes or lack of awareness can create security vulnerabilities.
+
+Attackers often attempt to manipulate individuals rather than directly attacking systems. This is commonly done through techniques such as **social engineering**, where attackers trick people into revealing sensitive information or performing actions that compromise security.
+
+Some common attacker techniques include:
+
+- **Impersonation** – Pretending to be a trusted individual such as an IT staff member, manager, or service provider.
+- **Phishing emails** – Sending deceptive emails designed to trick users into clicking malicious links or revealing credentials.
+- **Social engineering attacks** – Manipulating employees into providing confidential information.
+- **Malicious script injection** – Injecting harmful scripts into websites to redirect users or steal data.
+- **Account or database compromise** – Attempting to gain unauthorized access to user accounts or sensitive databases.
+
+Because of these risks, **security awareness training for employees is critical**. Organizations must educate staff on how to recognize suspicious activities, phishing attempts, and other social engineering tactics.
+
+From a **SOC (Security Operations Center) perspective**, security teams also play a role in reducing human-related risks by implementing protective measures such as:
+
+- Developing and enforcing **security policies**
+- Implementing **access control and privilege management**
+- Deploying **antivirus and anti-phishing tools**
+- Monitoring systems for suspicious activity
+- Verifying alerts and investigating potential threats
+
+A key principle in cybersecurity is **“Trust, but verify.”**  
+Even trusted systems and users should be continuously monitored and validated to prevent external attacks or internal misuse.
